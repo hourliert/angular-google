@@ -1,0 +1,26 @@
+{
+  "name": "angular-google",
+  "main": "angular-google.js",
+  "version": "0.0.1",
+  "authors": [
+    "Thomas Hourlier <thomas.hourlier@cnode.fr>"
+  ],
+  "description": "A tiny wrapper around google api for angular.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "wrapper",
+    "api",
+    "google",
+    "angular.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
